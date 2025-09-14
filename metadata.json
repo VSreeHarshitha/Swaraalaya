@@ -1,0 +1,7 @@
+{
+  "name": "SwaraaLaya: AI Music Chatbot",
+  "description": "An artistic, AI-powered music chatbot. Explore vocals and instruments with SwaraaLaya, and experience a futuristic, immersive interface with smooth animations and 3D elements.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
